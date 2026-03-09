@@ -1,0 +1,9 @@
+{
+  "name": "Bharat Civic Shield",
+  "description": "An AI-powered platform for detecting misinformation, fake news, and communal incitement in the Indian context.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
